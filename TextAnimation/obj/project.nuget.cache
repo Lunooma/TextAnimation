@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z9YZo5/wlLw=",
+  "success": true,
+  "projectFilePath": "/home/luna/Documents/C#/TextAnimation/TextAnimation.csproj",
+  "expectedPackageFiles": [
+    "/home/luna/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
